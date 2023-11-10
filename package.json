@@ -1,32 +1,36 @@
 {
-    "version": "12.7.0",
-    "private": true,
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build"
-    },
-    "devDependencies": {
-        "laravel-vite-plugin": "^0.7.0",
-        "lodash": "^4.17.19",
-        "postcss": "^8.4.31",
-        "vite": "3.2.7"
-    },
-    "dependencies": {
-        "@popperjs/core": "^2.11.6",
-        "@sentry/browser": "^7.60.0",
-        "@types/node": "^20.6.0",
-        "alpinejs": "^3.13.0",
-        "axios": "^1.5.0",
-        "bootstrap": "^5.2.2",
-        "feather-icons": "^4.29.1",
-        "http-cache-semantics": "^4.1.1",
-        "js-cookie": "^3.0.5",
-        "node-sass": "^9.0.0",
-        "sass": "^1.55.0",
-        "semver": "^7.5.3",
-        "simplebar": "^6.2.5",
-        "smooth-scroll": "^16.1.3",
-        "tiny-slider": "^2.9.4",
-        "vanilla-lazyload": "17.8.4"
-    }
+  "version": "12.7.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "laravel-vite-plugin": "^0.7.0",
+    "lodash": "^4.17.19",
+    "postcss": "^8.4.31",
+    "vite": "3.2.7"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@sentry/browser": "^7.60.0",
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/node": "^20.6.0",
+    "alpinejs": "^3.13.0",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.2.2",
+    "daisyui": "latest",
+    "feather-icons": "^4.29.1",
+    "http-cache-semantics": "^4.1.1",
+    "js-cookie": "^3.0.5",
+    "node-sass": "^9.0.0",
+    "sass": "^1.55.0",
+    "semver": "^7.5.3",
+    "simplebar": "^6.2.5",
+    "smooth-scroll": "^16.1.3",
+    "tailwindcss": "^3.3.5",
+    "tiny-slider": "^2.9.4",
+    "vanilla-lazyload": "17.8.4"
+  }
 }
